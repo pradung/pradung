@@ -10,7 +10,13 @@ I'm studying in software engineering. \_TESTER\_ For what I feel best
 *   ✉️  You can contact me at [pradung.z@gmail.com](mailto:pradung.z@gmail.com)
 *   🧠  I'm learning Automated testing for applications### Skills 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON 
+Java
+Python
+Git
+JavaScript
+NodeJS
+.NET
+Figma
                     </p>
                     
                   ### Socials
